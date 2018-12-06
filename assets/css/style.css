@@ -1,0 +1,49 @@
+#title {
+    background-image: url("../images/palletbackground.jpg");
+    color: white;
+    width: 350px;
+    height: 100px;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+#playerinstructions {
+    width: 100%;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    background-image: url("../images/instructionsbackground.jpeg");
+    color: white;
+}
+
+/*crystals*/
+.crystals {
+    height: 100px;
+    width: 100px;
+}
+
+#displayResults {
+    background-image: url("../images/results.jpg");
+    color: white;
+    margin-left: 20px;
+    height: 150px;
+    
+}
+
+#displayRandom {
+    background-image: url("../images/random.jpg");
+    height: 150px;
+    margin-left: 20px;
+    color: white;
+}
+
+.rowScore {
+    background-image: url("../images/score.jpg");
+    height: 100px;
+    color: white;
+}
+
+body {
+    background-image: url("../images/palletbackground.jpg");
+    background-repeat: repeat;
+}
